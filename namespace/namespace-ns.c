@@ -12,6 +12,7 @@
 #include <sched.h>
 #include <signal.h>
 #include <unistd.h>
+#include <stdlib.h>
 
 #define STACK_SIZE (1024 * 1024)
 
